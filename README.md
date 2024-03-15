@@ -1,19 +1,19 @@
-# LASER4DIY Low Profile XY Table
+# FabMX 3D Printer (with XY table)
 
-XY table to be used for the Laser4DIY project, see http://www.laser4diy.org/
+3D printer with XY table, for the FabMX pellet extruder, see http://www.fabmx.org/
 
 ![Laser4DIY XY Table](Low%20Profile%20XY%20Table.jpg)
 
-- Table Size: 165mm x 165mm
-- Overall Size: 368mm x 333mm x 56mm (with pancake motor)
-- Based on 2 OpenBuilds NEMA17 V-Slot Actuators with Lead Screw
+- Build Bed Size:  max 165mm x 165mm
+- Based on Laser4DIY Low Profile XY Table
+- Uses 2 OpenBuilds NEMA17 V-Slot Actuators with Lead Screw (with modifications)
 
-See https://wiki.fablab-muenchen.de/display/WIKI/LASER4DIY+Low+Profile+XY+Table for details.
+See https://wiki.fablab-muenchen.de/x/EICpDg for details.
 
 
 --
 
-Copyright FabLab München e.V. 2021
+Copyright FabLab München e.V. 2023-2024
 
 This source describes Open Hardware and is licensed under the CERN-OHL-P v2
 
