@@ -2,11 +2,12 @@
 
 3D printer with XY table, for the FabMX pellet extruder, see http://www.fabmx.org/
 
-![Laser4DIY XY Table](Low%20Profile%20XY%20Table.jpg)
+![FabMX 3D Printer (with XY table)](documentation/fabmxprinter.jpg)
 
 - Build Bed Size:  max 165mm x 165mm
 - Based on Laser4DIY Low Profile XY Table
-- Uses 2 OpenBuilds NEMA17 V-Slot Actuators with Lead Screw (with modifications)
+- Uses 2 OpenBuilds NEMA17 V-Slot Actuators with Lead Screw for x and y axes (with modifications)
+- plus 1 Open Builds C-Beam Linear Actuator for z axis
 
 See https://wiki.fablab-muenchen.de/x/EICpDg for details.
 
